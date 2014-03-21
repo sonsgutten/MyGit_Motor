@@ -1,6 +1,8 @@
 kodefil
 
-Endrer på kodefilen.
+Endrer pï¿½ kodefilen.
 
 
 Kode linje 2 er lagt til
+
+Har lagt til Linje 3 fra WEB
