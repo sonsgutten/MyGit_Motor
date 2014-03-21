@@ -1,3 +1,6 @@
 kodefil
 
 Endrer på kodefilen.
+
+
+Kode linje 2 er lagt til
